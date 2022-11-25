@@ -7,3 +7,4 @@
  Série: 1° ano E.
  
  Nosso site é sobre:
+ Uma loja de doces Pet Friendly.
