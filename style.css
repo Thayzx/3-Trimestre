@@ -3,7 +3,7 @@ h1 {text-align:center;background-color:rgb(97, 91, 91);color:rgb(0, 0, 0);}
 h3 {text-align:justify;color:rgb(0, 0, 0);}
 b {color:rgb(31, 31, 31);font-size: 18px;}
 i {color:rgb(255, 0, 191); font-size: 18px;}
-header, footer {background-color:rgb(105, 82, 66);text-align:center; font-size: 20px;}
+header, footer {background-color:rgb(105, 82, 66);color:rgb(139, 45, 226); text-align:center; font-size: 20px;}
 main {background-color:rgb(162, 162, 255);}
 PRIMEIROPARAGRAFO {text-align:justify;font-size: 10px;border:rgb(110, 69, 58) solid 2px;padding: 10px;margin: 18px;}
 SEGUNDOPARAGRAFO {text-align:justify;font-size: 10px;border:rgb(255, 135, 101) solid 2px;padding: 10px;margin: 18px;}
