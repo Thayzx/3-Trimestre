@@ -3,7 +3,7 @@ h1 {text-align: center;background-color:rgb(110, 69, 58); color: rgb(15, 15, 15)
 h3 {text-align: justify; color: rgb(31, 31, 31);}
 b{color: rgb(31, 31, 31); font-size: 18px;}
 i {color: rgb(31, 31, 31); font-size: 18px;}
-header, footer{background-color: rgb(110, 69, 58); color: rgb(31, 31, 31)fc; text-align: center; font-size: 30px;  border: rgb(41, 41, 41) groove 4px; border-radius: 20px;}
+header, footer{background-color: rgb(110, 69, 58); color: rgb(31, 31, 31)fc; text-align: center; font-size: 40px;  border: rgb(41, 41, 41) groove 4px; border-radius: 20px;}
 main {background-color: rgb(255, 195, 232);}
 nav li {text-transform: uppercase;list-style: none; display: inline; margin-left: 10px; text-align: center;}
 nav a {color: rgb(31, 31, 31); text-decoration: none; text-align: right;}
