@@ -1,13 +1,13 @@
-body {background-color: rgb(255, 143, 212); text-align: justify; font-size: 30px;}
+body {background-color: rgb(255, 143, 212); text-align: justify; font-size: 18px; background-size: 100%;}
 h1 {text-align: center;background-color:rgb(110, 69, 58);color: rgb(15, 15, 15);}
 h3 {text-align: justify;color: rgb(31, 31, 31);}
-b{color: rgb(31, 31, 31); font-size: 30px;}
-i {color: rgb(31, 31, 31); font-size: 30px;}
-header, footer{background-color: rgb(110, 69, 58); color: rgb(31, 31, 31); text-align: center; font-size: 30px; border:black solid 10px;}
-main {background-color: rgb(255, 195, 232);}
+b{color: rgb(31, 31, 31); font-size: 18px;}
+i {color: rgb(31, 31, 31); font-size: 18px;}
+header, footer{background-color: rgb(110, 69, 58); color: rgb(31, 31, 31); text-align: center; font-size: 20px; border-radius:black solid 2px;}
+main {background-color: rgb(255, 195, 232); border-radius: black solid 2px;}
 nav li {text-transform: uppercase;list-style: none; display: inline; margin-left: 10px; text-align: right;}
 nav a {color: rgb(31, 31, 31); text-decoration: none; text-align: right;}
-.PRIMEIROPARAGRAFO {text-align: justify; font-size: 18px; border: black solid 10px; padding: 10px; margin: 10px;}
+.PRIMEIROPARAGRAFO {text-align: justify; font-size: 18px; padding: 10px; margin: 10px; border-radius: black solid 2px;}
 #TITULOIMAGEM {width: 5% ; height: 5%;}
 #lista01 {display:block; text-align: center;}
 #lista02 {display: inline-block;}
